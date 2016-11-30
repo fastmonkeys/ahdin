@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "lib": ["dom", "es6"],
+    "module": "commonjs",
+    "outDir": "lib",
+    "sourceMap": true,
+    "target": "es5"
+  },
+  "files": [
+    "src/index.ts",
+    "typings.d.ts"
+  ],
+   "exclude": [
+     "node_modules"
+   ]
+}
