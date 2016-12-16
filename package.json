@@ -1,5 +1,5 @@
 {
-  "name": "@fastmonkeys/ahdin",
+  "name": "ahdin",
   "version": "1.0.0",
   "description": "Lossy image compression module for JavaScript applications.",
   "main": "lib/index.js",

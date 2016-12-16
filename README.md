@@ -5,13 +5,13 @@ Lossy image compression module for JavaScript applications. It takes image `File
 ## Install
 
 ```
-$ npm install --save @fastmonkeys/ahdin
+$ npm install --save ahdin
 ```
 
 ## Usage
 
 ```js
-const Ahdin = require('@fastmonkeys/ahdin');
+const Ahdin = require('ahdin');
 
 Ahdin
   .compress(
