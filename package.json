@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/fastmonkeys/ahdin#readme",
   "dependencies": {
-    "blob-util": "^1.0.0",
+    "blob-util": "^2.0.2",
     "blueimp-load-image": "^2.6.1"
   },
   "devDependencies": {
